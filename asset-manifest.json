@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/weather/static/css/main.66fd48cd.chunk.css",
-    "main.js": "/weather/static/js/main.72852c37.chunk.js",
-    "main.js.map": "/weather/static/js/main.72852c37.chunk.js.map",
-    "runtime-main.js": "/weather/static/js/runtime-main.a9e44205.js",
-    "runtime-main.js.map": "/weather/static/js/runtime-main.a9e44205.js.map",
-    "static/js/2.ab957aef.chunk.js": "/weather/static/js/2.ab957aef.chunk.js",
-    "static/js/2.ab957aef.chunk.js.map": "/weather/static/js/2.ab957aef.chunk.js.map",
-    "index.html": "/weather/index.html",
-    "precache-manifest.3af9ff2bece374007aa57ca5ee2c4867.js": "/weather/precache-manifest.3af9ff2bece374007aa57ca5ee2c4867.js",
-    "service-worker.js": "/weather/service-worker.js",
-    "static/css/main.66fd48cd.chunk.css.map": "/weather/static/css/main.66fd48cd.chunk.css.map",
-    "static/js/2.ab957aef.chunk.js.LICENSE.txt": "/weather/static/js/2.ab957aef.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/weather/static/media/hot.44de4288.jpg"
+    "main.css": "/weather-react/static/css/main.08d43df2.chunk.css",
+    "main.js": "/weather-react/static/js/main.df6968db.chunk.js",
+    "main.js.map": "/weather-react/static/js/main.df6968db.chunk.js.map",
+    "runtime-main.js": "/weather-react/static/js/runtime-main.ed96b400.js",
+    "runtime-main.js.map": "/weather-react/static/js/runtime-main.ed96b400.js.map",
+    "static/js/2.ab957aef.chunk.js": "/weather-react/static/js/2.ab957aef.chunk.js",
+    "static/js/2.ab957aef.chunk.js.map": "/weather-react/static/js/2.ab957aef.chunk.js.map",
+    "index.html": "/weather-react/index.html",
+    "precache-manifest.a3e14da8c5da492f60ba6d826c47ef36.js": "/weather-react/precache-manifest.a3e14da8c5da492f60ba6d826c47ef36.js",
+    "service-worker.js": "/weather-react/service-worker.js",
+    "static/css/main.08d43df2.chunk.css.map": "/weather-react/static/css/main.08d43df2.chunk.css.map",
+    "static/js/2.ab957aef.chunk.js.LICENSE.txt": "/weather-react/static/js/2.ab957aef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-react/static/media/hot.44de4288.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9e44205.js",
+    "static/js/runtime-main.ed96b400.js",
     "static/js/2.ab957aef.chunk.js",
-    "static/css/main.66fd48cd.chunk.css",
-    "static/js/main.72852c37.chunk.js"
+    "static/css/main.08d43df2.chunk.css",
+    "static/js/main.df6968db.chunk.js"
   ]
 }
